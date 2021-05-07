@@ -8,7 +8,7 @@ The annotations are licensed by Google Inc. under [CC BY 4.0](https://creativeco
 
 The images are listed as having a [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) license. **Note:** while we tried to identify images that are licensed under a Creative Commons Attribution license, we make no representations or warranties regarding the license status of each image and you should verify the license for each image yourself.
 
-## Link to dataset
+# Link to dataset
 - **New** [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html) is released.
 
 
