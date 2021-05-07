@@ -1,0 +1,6 @@
+train: ../v1/train/images
+val: ../v1/valid/images
+test: ../testing_files/WEBP/WEBP/images
+
+nc: 8
+names: ['apple', 'ball', 'bird', 'bus', 'cat', 'dog', 'elephant', 'person']

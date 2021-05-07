@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['apple', 'ball', 'bird', 'bus', 'cat', 'dog', 'elephant', 'person']
